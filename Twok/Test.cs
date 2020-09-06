@@ -23,6 +23,7 @@ namespace Twok
         public Test()
         {
             dataCollection = new List<data>();
+            //değişti
         }
     }
 }
